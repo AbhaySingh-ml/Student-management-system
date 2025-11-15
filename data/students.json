@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Abhay",
+        "roll_no": 1,
+        "marks": 90,
+        "grade": "A"
+    },
+    {
+        "name": "Riya",
+        "roll_no": 2,
+        "marks": 82,
+        "grade": "B"
+    },
+    {
+        "name": "Amit",
+        "roll_no": 3,
+        "marks": 76,
+        "grade": "B"
+    },
+    {
+        "name": "Priya",
+        "roll_no": 4,
+        "marks": 95,
+        "grade": "A"
+    },
+    {
+        "name": "Rohan",
+        "roll_no": 5,
+        "marks": 64,
+        "grade": "C"
+    }
+]
