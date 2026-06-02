@@ -1,4 +1,4 @@
-# 🎓 Student Record Management System 1 
+# 🎓 Student Record Management System 
 
 A Python console-based application for managing student records with JSON persistence.
 
